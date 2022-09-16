@@ -1,2 +1,2 @@
 # test_repo_reassignment
-A dummy repo
+This is a test PR to see what happens when we delete repos with open PRs
